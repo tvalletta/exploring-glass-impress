@@ -12,11 +12,23 @@
 .meta 	{margin-top: 17px; color: rgb(92, 131, 198);}
 .code 	{margin-left: 33px; color: rgb(102, 102, 102); font-family: Junction;}
 
-.epic   {font-size: 88px; line-height: 108px;}
-.huge   {font-size: 64px; line-height: 64px;}
-.large 	{font-size: 48px; line-height: 48px;}
-.med 	{font-size: 40px; line-height: 40px;}
-.small 	{font-size: 32px; line-height: 32px;}
+.x6-epic    {font-size: 158px; line-height: 166px;}
+.xxxxx-epic {font-size: 150px; line-height: 158px;}
+.xxxx-epic  {font-size: 142px; line-height: 150px;}
+.xxx-epic   {font-size: 134px; line-height: 142px;}
+.xx-epic    {font-size: 126px; line-height: 134px;}
+.x-epic     {font-size: 118px; line-height: 126px;}
+.epic       {font-size: 110px; line-height: 118px;}
+.xxx-huge   {font-size: 102px; line-height: 110px;}
+.xx-huge    {font-size: 96px; line-height: 102px;}
+.x-huge     {font-size: 88px; line-height: 96px;}
+.huge       {font-size: 80px; line-height: 88px;}
+.xxx-large  {font-size: 72px; line-height: 80px;}
+.xx-large   {font-size: 64px; line-height: 72px;}
+.x-large    {font-size: 56px; line-height: 64px;}
+.large 	    {font-size: 48px; line-height: 48px;}
+.med 	    {font-size: 40px; line-height: 40px;}
+.small 	    {font-size: 32px; line-height: 32px;}
 .x-small 	{font-size: 24px; line-height: 24px;}
 .xx-small 	{font-size: 16px; line-height: 16px;}
 .xxx-small 	{font-size: 9px; line-height: 9px;}
@@ -58,4 +70,17 @@ pre 	{font-size: 21px; line-height: 26px; font-family: Monaco, Consolas, "Lucida
 .demo {
     color: gray;
     font: 90pt Monaco, Consolas, "Lucida Console", monospace;
+}
+
+.glass-screen {
+    display: block;
+
+    width: 640px;
+    height: 480px;
+    padding: 40px 60px;
+
+    background-color: black;
+    color: #ffffff;
+
+    font-family: 'Roboto-Thin', Arial, sans-serif;
 }
