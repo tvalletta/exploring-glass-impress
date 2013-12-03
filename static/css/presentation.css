@@ -50,7 +50,11 @@ pre 	{font-size: 21px; line-height: 26px; font-family: Monaco, Consolas, "Lucida
 	opacity: 0.6;
 }
 
-
+.focus-circle {
+    border-radius: 100px;
+    border: 20px solid #f00;
+    opacity: 0.6;
+}
 
 .step {
     color: #666;

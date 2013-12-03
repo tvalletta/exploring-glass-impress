@@ -151,7 +151,7 @@ a:focus {
 .impress-enabled .step.active, 
 .impress-enabled .clarify,
 .impress-enabled .step.invisible.clarify, 
-.impress-enabled .step.invisible.stay { opacity: 1 }
+.impress-enabled .step.stay { opacity: 1 }
 
 .slide {
     display: block;
